@@ -1,4 +1,4 @@
-Weather App Using HTML, CSS, and JavaScript
+Weather App Using HTML, CSS, and JavaScript 
 
 This repository contains the source code for a simple yet functional weather application built using HTML, CSS, and JavaScript. The app allows users to retrieve and display real-time weather information for any city.
 
